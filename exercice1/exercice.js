@@ -1,3 +1,5 @@
+window.$;
+
 $("p").click(function(){
-    $(this).method();
+    $(this).hide();
 });
